@@ -20,10 +20,6 @@ Watch as particles dance around a gravitational monster in this interactive blac
 - **Matplotlib** - Scientific visualization and animation
 - **SciPy** - Advanced mathematical operations`
 
-## 📸 Simulation Preview
-
-![alt text](<milkyway D=50 Rs=8 size=6000-1.jpg>)
-
 ## 🧮 Physics Behind the Magic
 
 The simulation uses Newton's law of universal gravitation:
